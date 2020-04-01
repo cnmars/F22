@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+本页面目前唯一优选推荐机场👇（部分网络需要挂代理访问这个机场网站）     
+Light-up(点亮)：[Light-up](https://light-up.cc/auth/register?code=DusH)             
+* 海外团队新开“定位高端”的机场(就是保证稳，但不一定便宜的意思。这位华裔机场主为了符合本页面的高推荐标准而特地新开的机场，WTF...)               
+* 现阶段起步情况是：全线低qos的隧道技术内网中转美、日、韩、港、印各多条线路(隧道，不怕墙，缺点就延迟有点高，尤其是移动宽带用户一定要买试用套餐先试试) + IPLC香港游戏多条专线(后期会在利润可覆盖情况下逐步增加IPLC美、韩、日、港等视频线路，只要用户都是求稳且不差钱的大佬，日后全线IPLC各地区视频+游戏线路也不是不可能哦)                     
+* 只限制流量不限制客户端数量、提供所有套餐的预览、以及一元试用套餐（试用几天，不爽你立马拉黑这个机场即可(*^_^*)）              
+* 还是那句话：能试用一定先试用、能月付就不要年付，只有握有筹码才不会被割韭菜哦(*^_^*)             
+* 线路有波动的立即反馈给机场主他们，消极优化下个月就不买你家了！这样才能强有力地督促他们哦(*^_^*)                        
+* 可以对机场主提需求和建议，合理的会采纳的        
 
-You can use the [editor on GitHub](https://github.com/wefuxkgfw/F22/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wefuxkgfw/F22/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Ps：因为是被本页面独家安利的机场，可能不久就会被同行攻击官网及线路，大家注意看Light-up的telegram频道通知信息     
+机场主可以私信联系：[笑脸哥](https://t.me/wefuxkgfw)参与后备名单（此页面已推荐的机场如果出现割韭菜、消极优化情况会被永久停止推荐，顺延候补名单中择优机场）            
